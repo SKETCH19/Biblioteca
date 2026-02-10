@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#fdf6e3" />
+  <circle cx="200" cy="150" r="70" fill="#e6c79c" />
+  <rect x="90" y="230" width="220" height="110" rx="55" fill="#d9b381" />
+  <text x="200" y="205" font-family="Arial, sans-serif" font-size="22" text-anchor="middle" fill="#5a3b1e">GGM</text>
+</svg>

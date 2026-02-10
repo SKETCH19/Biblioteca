@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="560" viewBox="0 0 400 560">
+  <rect width="400" height="560" fill="#f0fbff" />
+  <rect x="30" y="40" width="340" height="480" rx="18" fill="#7ec5d6" />
+  <rect x="60" y="90" width="280" height="18" fill="#1d5669" />
+  <text x="200" y="300" font-family="Georgia, serif" font-size="26" text-anchor="middle" fill="#123743">Pedro Paramo</text>
+</svg>

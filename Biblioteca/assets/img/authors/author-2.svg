@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#f0f7ff" />
+  <circle cx="200" cy="150" r="70" fill="#8ab6d6" />
+  <rect x="90" y="230" width="220" height="110" rx="55" fill="#7aa7c6" />
+  <text x="200" y="205" font-family="Arial, sans-serif" font-size="22" text-anchor="middle" fill="#244b6a">IA</text>
+</svg>

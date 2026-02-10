@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="560" viewBox="0 0 400 560">
+  <rect width="400" height="560" fill="#fff6f0" />
+  <rect x="30" y="40" width="340" height="480" rx="18" fill="#e7a28a" />
+  <rect x="60" y="90" width="280" height="18" fill="#7a2f2a" />
+  <text x="200" y="300" font-family="Georgia, serif" font-size="28" text-anchor="middle" fill="#5a1f1b">Rayuela</text>
+</svg>

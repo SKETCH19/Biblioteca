@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="560" viewBox="0 0 400 560">
+  <rect width="400" height="560" fill="#fdf6e3" />
+  <rect x="30" y="40" width="340" height="480" rx="18" fill="#e6c79c" />
+  <rect x="60" y="90" width="280" height="18" fill="#8a5a44" />
+  <text x="200" y="270" font-family="Georgia, serif" font-size="28" text-anchor="middle" fill="#4a3b2b">Cien Anos</text>
+  <text x="200" y="305" font-family="Georgia, serif" font-size="24" text-anchor="middle" fill="#4a3b2b">de Soledad</text>
+</svg>
