@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="560" viewBox="0 0 400 560">
+  <rect width="400" height="560" fill="#f4fff3" />
+  <rect x="30" y="40" width="340" height="480" rx="18" fill="#95c98a" />
+  <rect x="60" y="90" width="280" height="18" fill="#2d5f2e" />
+  <text x="200" y="300" font-family="Georgia, serif" font-size="26" text-anchor="middle" fill="#1f4020">El Alquimista</text>
+</svg>
